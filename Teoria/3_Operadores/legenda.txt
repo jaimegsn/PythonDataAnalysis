@@ -1,0 +1,6 @@
+# Aritméticos: Nos ajudam a fazer cálculos matemáticos;
+# Atribuição: Nos ajudam a armazenar dados e facilmente modificar variáveis em memória;
+# Lógicos: Como o próprio nome já anuncia, possibilitam a construção de expressões lógicas;
+# Comparação ou relacionais: Nos ajudam a comparar valores e expressões;
+# Lógicos bit-a-bit: Avaliam cada um dos bits das variáveis que os utilizam;
+# Identidade e de pertencimento: Nos ajudam a comparar variáveis e a saber se elas estão no mesmo local da memória do computador.
