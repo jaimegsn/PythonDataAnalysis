@@ -1,0 +1,6 @@
+Bancos de dados relacionais tem sido o principal modelo para a gestão de dados nas ultimas decadas 
+Bancos de dados relacionais representam e armazenam os dados em tabelas organizadas em linhas
+e colunas e são os relacionamentos entre as tabelas através de chave estrangeira que tornam o banco relacional.
+
+Bancos de dadaos ralcionais usam linguagem SQL
+

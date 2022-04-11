@@ -1,0 +1,21 @@
+Comandos SQL:
+
+DML(Data Manipulation Language)(Desenvolvimento):
+
+SELECT: Pesquisa de Dados
+UPDATE: Atualização de Dados
+DELETE: Eliminação de Dados
+INSERT: Inserção de Dados
+
+
+DDL(Data Definition Language)(Suporte)
+
+CREATE: Definição de um objeto(tabela,indice)
+ALTER: Alteração de um Objeto
+DROP: Eliminação de um Objeto
+
+DCL(Data Control Language)(Suporte/Desenvolvimento)
+
+GRANT: Fornecer um privilégio
+REVOKE: Tirar um privilégio
+
