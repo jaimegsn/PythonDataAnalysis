@@ -1,0 +1,24 @@
+Series:
+É um array unidimensional que contém um array de dados e um array de labels, chamado índice
+ex:  Obj = Series([4,5,6,7], index = ['a','b','c','d'])
+
+'a' = 4
+'b' = 5
+'c' = 6
+'d' = 7
+
+
+DataFrames:
+Reprentam uma estrutura Tabular semelhante a estrutura de uma planilha do excel, contendo uma coleção
+de colunas em que cada uma pode ser um diferente tipo de valor(num,str...).
+    Os DataFrames possuem index e linhas e esta estrutura é muito semelhante a um dataframe em R.  Os dados
+de um dataframe são armazenados em um ou mais blocos bidimensionais, ao invés de listas, dicionários ou alguma
+outra estrutura de array.
+
+ex: data = {'Estado': ['Ceará','Pernambuco'],'Ano': [2018,2022],'populacao':[2000000,1800000]}
+frame = DataFrame(data)
+
+    Ano     estado      Populacao
+0   2018    Ceará       2000000
+1   2022    Pernambuco  1800000
+
