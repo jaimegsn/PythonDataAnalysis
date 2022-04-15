@@ -18,3 +18,12 @@ vetor5 = np.diag(np.array([1,2,3,4]))
 # Array de valores booleanos 
 vetor6 = np.array([True,False,False,True])
 
+# Calcular média
+vetor7 = np.array([1,2,3,4])
+print(np.mean(vetor7))
+
+# Calcular desvio padrão
+vetor8 = np.array([1,2,3,4])
+print(np.std(vetor7))
+
+
